@@ -1,3 +1,5 @@
+# NOTE this file is for part 2 of the extra GUI work
+
 import tkinter as tk
 import json, requests
 
